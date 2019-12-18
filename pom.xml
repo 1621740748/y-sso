@@ -11,7 +11,7 @@
 
     <modules>
         <module>y-sso-core</module>
-        <module>code-generator</module>
+        <module>y-sso-server</module>
     </modules>
 
     <parent>
